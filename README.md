@@ -1,2 +1,2 @@
 # technical-discution
-This is a repo for sharing ideas around comunication
+This is a repo for sharing ideas around communication
